@@ -1,4 +1,5 @@
 #Lab 4: A Raspberry Pi#
+
 Computer Science Orientation · Raspberry Pi + Sense HAT
 You'll be using a tiny computer called a **Raspberry Pi**. Attached to the top of it is a **Sense HAT**: a board with a square grid of colored lights (the **LED matrix**) and sensors that can feel temperature, air pressure, humidity, and movement.
 By the end of this lab you will have:
